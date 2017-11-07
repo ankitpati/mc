@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BlueSense</string>
+    <string name="button_sense">Sense!</string>
+    <string name="no_bluetooth">Bluetooth is not supported on this device.</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ब्लू सेंस</string>
+    <string name="button_sense">खोजें!</string>
+    <string name="no_bluetooth">ब्लूटूथ इस यंत्र पे उपलब्ध नहीं है।</string>
+</resources>
